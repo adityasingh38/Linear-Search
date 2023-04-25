@@ -5,7 +5,7 @@
 
 int main()
 {
-	int arr[10] = {39, 7, 40, 40, 40, 345, 76, 22, 39, 319};
+	int arr[10] = {3, 7, 100, 45, 40, 45, 476, 40, 9, 31};
 	//int arr[10] = {rand(), rand(), rand(), rand(), rand(), rand(), rand(), rand(), rand(), rand()};
 
 	int n;
